@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Rami",
+        "avatar": "",
+        "desc": "",
+        "address": "0x0A2489F1F674B9B81c5b2fA19bA280B0B74E9C6c",
+        "seq_addr": "0x25341E0C56Da909668B28840AC4E0961a479b0d1",
+        "pubkey": "0x02fee0da7d7afc4f87fc2b7a6a7c837c8fba58a648399a178066fdfbedf6c853eb11cda5db40caa615e340a76b2ebb5197079b2bf2eefbb9b687e0f729066b8b",
+        "url": "https://x.com/t0mcr8se",
+        "media": ""
+    },
+    {
+        "name": "ENKI 01",
+        "avatar": "{BASEDIR}/assets/enki_01.jpg",
+        "desc": "",
+        "address": "0x7aA59f299625784A22c342521e94B5A20774e05E",
+        "seq_addr": "0x01509F4a26c17B9eD3a4c02E5ECf8A648027557D",
+        "pubkey": "0xdb8c4e5a8d5d902c11f3c76db4534321067cf0fff628a5e0fed8e8d2bc042a6f7afb8c4e06f614612a3c78cc6b51284840dd197943ddc3fc47a551ff34f047a6",
+        "url": "https://x.com/ENKIProtocol",
+        "media": ""
+    }
+]
