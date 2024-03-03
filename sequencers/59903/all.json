@@ -1,7 +1,7 @@
 [
     {
         "name": "Genesis0",
-        "avatar": "{BASEDIR}/assets/Genesis0.png",
+        "avatar": "{BASEDIR}/assets/Genesis0.svg",
         "desc": "Metis is a permissionless Layer 2 network powering the next generation of decentralized applications.",
         "address": "0x87fb79e80599392B0069b9b472E53fD32d53a9FD",
         "seq_addr": "0x87fb79e80599392B0069b9b472E53fD32d53a9FD",
@@ -11,7 +11,7 @@
     },
     {
         "name": "Genesis1",
-        "avatar": "{BASEDIR}/assets/Genesis1.png",
+        "avatar": "{BASEDIR}/assets/Genesis1.svg",
         "desc": "Metis is soon to launch a Decentralized Sequencer to achieve full decentralization in Layer 2 networks and avoid single-point failures derived from centralized Sequencers.",
         "address": "0xabB8407d97FD40410F91AE9ef80DF3AA45E9afFA",
         "seq_addr": "0xabB8407d97FD40410F91AE9ef80DF3AA45E9afFA",
@@ -21,7 +21,7 @@
     },
     {
         "name": "Genesis2",
-        "avatar": "{BASEDIR}/assets/Genesis2.png",
+        "avatar": "{BASEDIR}/assets/Genesis2.svg",
         "desc": "Become a Sequencer To become a Sequencer during the first year of the trial operation phase, you must join the whitelist.",
         "address": "0xd0b814096cb9ca5E140a7616a2885c5abfB71bC1",
         "seq_addr": "0xd0b814096cb9ca5E140a7616a2885c5abfB71bC1",
