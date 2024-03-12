@@ -3,7 +3,7 @@ Submit your Sequencer information, which will be displayed on the Metis Decentra
 
 ## How to Submit Your Sequencer Info
 1. Read the [Requirements](#requirements)
-2. Copy an existing Sequencer Node entry in `all.json`
+2. Copy an existing Sequencer Node entry in `CHAIN_ID/all.json`
 3. Fill your details and add your entry to the bottom of the list
 4. Add your logo to `assets/` and make sure it's named correctly
 5. Submit a pull request
@@ -38,8 +38,7 @@ Submit your Sequencer information, which will be displayed on the Metis Decentra
         "address": "0xC8E9fE8B900c77300652e7E0C2F9BE033e0C8371",
         "seq_addr": "0x9920640b57c188a05f566a8ebc2785880a4e2d10",
         "pubkey": "0xe805cd1f5f172e82a10033afab256315f2ddf735270e8498fa1e505d4c460812eda3ff63c0df944c787c464a0b523ec4170d8b07e7aa779d45670ad6d2f34182",
-        "url": "https://twitter.com/MetisL2",
-        "media": ""
+        "url": "https://twitter.com/MetisL2"
     },
     {
         "name": "METIS",
@@ -48,8 +47,7 @@ Submit your Sequencer information, which will be displayed on the Metis Decentra
         "address": "0xC8E9fE8B900c77300652e7E0C2F9BE033e0C8371",
         "seq_addr": "0x9920640b57c188a05f566a8ebc2785880a4e2d10",
         "pubkey": "0xe805cd1f5f172e82a10033afab256315f2ddf735270e8498fa1e505d4c460812eda3ff63c0df944c787c464a0b523ec4170d8b07e7aa779d45670ad6d2f34182",
-        "url": "https://example.com",
-        "media": ""
+        "url": "https://example.com"
     }
 ]
 ```
