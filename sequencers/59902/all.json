@@ -1,22 +1,29 @@
 [
-    {
-        "name": "Rami",
-        "avatar": "",
-        "desc": "",
-        "address": "0x0A2489F1F674B9B81c5b2fA19bA280B0B74E9C6c",
-        "seq_addr": "0x25341E0C56Da909668B28840AC4E0961a479b0d1",
-        "pubkey": "0x02fee0da7d7afc4f87fc2b7a6a7c837c8fba58a648399a178066fdfbedf6c853eb11cda5db40caa615e340a76b2ebb5197079b2bf2eefbb9b687e0f729066b8b",
-        "url": "https://x.com/t0mcr8se",
-        "media": ""
-    },
-    {
-        "name": "ENKI 01",
-        "avatar": "{BASEDIR}/assets/enki_01.jpg",
-        "desc": "",
-        "address": "0x7aA59f299625784A22c342521e94B5A20774e05E",
-        "seq_addr": "0x01509F4a26c17B9eD3a4c02E5ECf8A648027557D",
-        "pubkey": "0xdb8c4e5a8d5d902c11f3c76db4534321067cf0fff628a5e0fed8e8d2bc042a6f7afb8c4e06f614612a3c78cc6b51284840dd197943ddc3fc47a551ff34f047a6",
-        "url": "https://x.com/ENKIProtocol",
-        "media": ""
-    }
+  {
+    "name": "Genesis0",
+    "avatar": "{BASEDIR}/assets/Genesis0.svg",
+    "desc": "Metis Devops Team",
+    "address": "0x3525fdb496c612e4cDe817A2567081470b7a2Ecb",
+    "seq_addr": "0x3525fdb496c612e4cDe817A2567081470b7a2Ecb",
+    "pubkey": "0x95fb641cb0d3926238fe9fa6a9f26a12d13319c3ca5dbb2db9c534549e73960e4444a2d8d3a0a69c2a81144a112a176982e2c02d395bf1b7c0c1e1a68cf02021",
+    "url": "https://sepolia.metisdevops.link"
+  },
+  {
+    "name": "Genesis1",
+    "avatar": "{BASEDIR}/assets/Genesis0.svg",
+    "desc": "Metis Devops Team",
+    "address": "0x3aEA46bAd8653B4F7a6E7b8147f966Db9d1c2587",
+    "seq_addr": "0x3aEA46bAd8653B4F7a6E7b8147f966Db9d1c2587",
+    "pubkey": "0xee19939d1e99f65914d36fbcd8aaade8be1f12030bae68f94a31de09fa16e9d6b88466d370d5755d9bd7914d0e17d04cc8472038acccaa84523805c18c46e5a0",
+    "url": "https://sepolia.metisdevops.link"
+  },
+  {
+    "name": "Genesis2",
+    "avatar": "{BASEDIR}/assets/Genesis0.svg",
+    "desc": "Metis Devops Team",
+    "address": "0xa02E8A273D0E94F60Eb32124991479295bDD969F",
+    "seq_addr": "0xa02E8A273D0E94F60Eb32124991479295bDD969F",
+    "pubkey": "0x9111bfa95805d1a6b6b0533f56b9e2c647ae60cb3b7b16335d210a2347c89c985e21da1bf111d8c5f3cc9a3d2420fbabb666aebc05054c5702e40c0c0cd76d14",
+    "url": "https://sepolia.metisdevops.link"
+  }
 ]
