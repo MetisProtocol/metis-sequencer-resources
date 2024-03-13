@@ -1,6 +1,5 @@
 import { ethers } from "ethers";
 import fsp from "node:fs/promises";
-import fs from "node:fs";
 import path from "node:path";
 import { URL } from "node:url";
 
@@ -12,7 +11,6 @@ class ValidationError extends Error {
   }
 }
 
-const isAddress = (addr) => /^0x[0-9a-fA-F]{40}$/.test(addr);
 const isPubkey = (pubkey) => /^0x[0-9a-f]{128}$/.test(pubkey);
 
 const Validate = async (file) => {
@@ -50,7 +48,7 @@ const Validate = async (file) => {
       fsp.constants.F_OK
     );
 
-    if (!isAddress(item.address)) {
+    if (!ethers.isAddress(item.address)) {
       throw new ValidationError(
         path,
         index,
@@ -68,7 +66,7 @@ const Validate = async (file) => {
     }
     ownerSet.add(item.address);
 
-    if (!isAddress(item.seq_addr)) {
+    if (!ethers.isAddress(item.seq_addr)) {
       throw new ValidationError(
         path,
         index,
