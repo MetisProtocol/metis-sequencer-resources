@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Genesis0",
+    "avatar": "{BASEDIR}/assets/Genesis0.svg",
+    "desc": "MetisDevopsTesting",
+    "address": "0x87fb79e80599392B0069b9b472E53fD32d53a9FD",
+    "seq_addr": "0x87fb79e80599392B0069b9b472E53fD32d53a9FD",
+    "pubkey": "0x8c29745a0b047a8ebf82e0be484667d707e042db01faee3d5c96ce176efd686d210fd91d5167787ead10634367968ec9bfbccd6fa030933094be42b783fb79d3",
+    "url": "https://www.metisdevops.link"
+  },
+  {
+    "name": "Genesis1",
+    "avatar": "{BASEDIR}/assets/Genesis0.svg",
+    "desc": "MetisDevopsTesting",
+    "address": "0xabB8407d97FD40410F91AE9ef80DF3AA45E9afFA",
+    "seq_addr": "0xabB8407d97FD40410F91AE9ef80DF3AA45E9afFA",
+    "pubkey": "0x50471a4900d77ac183594cd0d785d42a378e5494b3c12da598a4b2be84b0e3cbb7fa409fa13e93feab8aee644f8030a8d9a823efc3400b8462556e06666afb85",
+    "url": "https://www.metisdevops.link"
+  },
+  {
+    "name": "Genesis2",
+    "avatar": "{BASEDIR}/assets/Genesis0.svg",
+    "desc": "MetisDevopsTesting",
+    "address": "0xd0b814096cb9ca5E140a7616a2885c5abfB71bC1",
+    "seq_addr": "0xd0b814096cb9ca5E140a7616a2885c5abfB71bC1",
+    "pubkey": "0x1f62b5a2a5017dc3fc95485c71f5f4325986e5654d19b9e4185d32fff43c529b1f581eb0eadcada3600fc3371044c027f9241336706ae4bb80eb1a8e97bf4a9c",
+    "url": "https://www.metisdevops.link"
+  },
+  {
+    "name": "Genesis3",
+    "avatar": "{BASEDIR}/assets/Genesis0.svg",
+    "desc": "Metis is soon to launch a Decentralized Sequencer to achieve full decentralization in Layer 2 networks and avoid single-point failures derived from centralized Sequencers.",
+    "address": "0x0167f5DA5b360F861a31d05E9700D0D07d0439D7",
+    "seq_addr": "0x7117c7F5848753e05F801dB4e70FE286223192C1",
+    "pubkey": "0xb2c488732dd4fa78ab09f29eed16324607c925346734cebec2f52cfca95277ffed2bbf5cb605cd062a55ab7f84ae1bfe001ef958ff7f49afc4ef33f9ce2635a8",
+    "url": "https://www.metisdevops.link"
+  }
+]
