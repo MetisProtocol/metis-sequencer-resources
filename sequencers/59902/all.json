@@ -25,5 +25,14 @@
     "seq_addr": "0xa02E8A273D0E94F60Eb32124991479295bDD969F",
     "pubkey": "0x9111bfa95805d1a6b6b0533f56b9e2c647ae60cb3b7b16335d210a2347c89c985e21da1bf111d8c5f3cc9a3d2420fbabb666aebc05054c5702e40c0c0cd76d14",
     "url": "https://sepolia.metisdevops.link"
+  },
+  {
+    "name": "ENKI0",
+    "avatar": "{BASEDIR}/assets/ENKI0.png",
+    "desc": "ENKI Team",
+    "address": "0x849556c89D17d90F363D2c26971f6FDB50b2618a",
+    "seq_addr": "0x552C7ae340822ED786C2633f9F9F0B754c3CFb2f",
+    "pubkey": "0x2d62e882b067dc468f49db935468d5b8a7dce173a0e7d8d979f5f6b700c6aba3bcbb69191015c50ab19fdf2e979e7260db1604608151397cdc59d9e85348d59e",
+    "url": "https://testnet.enkixyz.com"
   }
 ]
