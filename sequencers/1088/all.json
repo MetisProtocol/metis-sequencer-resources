@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Genesis0",
+    "avatar": "{BASEDIR}/assets/Genesis0.svg",
+    "desc": "Genesis Node",
+    "address": "0x05B755a8B2fEc50391B5C38B2afB206Ba0e8e50E",
+    "seq_addr": "0xEcA7Ae7dE0d1978DF299a547Ee66c4503fBa474D",
+    "pubkey": "0x4d5e02936a222d68b5d423e566828d8c67ca2290cf428254c44c7be458b33decec1fe85d900756811366e2d19baeb2fe81b46ce10c1863e00d811e68a4e76c9f",
+    "url": "https://www.metis.io"
+  },
+  {
+    "name": "Genesis1",
+    "avatar": "{BASEDIR}/assets/Genesis0.svg",
+    "desc": "Genesis Node",
+    "address": "0xe8D97563Cfd919F1B9F7cE0049346e8796148CD5",
+    "seq_addr": "0xa233Cc81fC6C12e3318eA71EC5D7bBA78C706b04",
+    "pubkey": "0x1674b9842e300ab236bf6cedfea92e80a04cc7f12bbff2ff35b01295380d9211a9861a40867a4a04c6a89ee0a022f7afccbb5dddb87d622e1ddff9bd2069c7e8",
+    "url": "https://www.metis.io"
+  },
+  {
+    "name": "Genesis2",
+    "avatar": "{BASEDIR}/assets/Genesis0.svg",
+    "desc": "Genesis Node",
+    "address": "0x24194DFB135B33507a8F05C3F9Ada922F40CE3Ff",
+    "seq_addr": "0xAfF606251d8540f97Ca2Db12774C0147A170aB9e",
+    "pubkey": "0x713de5a736a196d0d65fc7e5d8cd716086d099fbaee929774752f2e8e370105e2d90e846d64167ea59a95160277abddf004660c6dac47f5c92a0f00234fe7000",
+    "url": "https://www.metis.io"
+  }
+]
