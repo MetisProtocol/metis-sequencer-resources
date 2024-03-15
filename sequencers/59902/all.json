@@ -28,7 +28,7 @@
   },
   {
     "name": "ENKI0",
-    "avatar": "{BASEDIR}/assets/ENKI0.svg",
+    "avatar": "{BASEDIR}/assets/ENKI0.png",
     "desc": "ENKI Team",
     "address": "0x849556c89D17d90F363D2c26971f6FDB50b2618a",
     "seq_addr": "552C7AE340822ED786C2633F9F9F0B754C3CFB2F",
