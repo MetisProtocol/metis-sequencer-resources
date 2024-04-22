@@ -25,5 +25,14 @@
     "seq_addr": "0xAfF606251d8540f97Ca2Db12774C0147A170aB9e",
     "pubkey": "0x713de5a736a196d0d65fc7e5d8cd716086d099fbaee929774752f2e8e370105e2d90e846d64167ea59a95160277abddf004660c6dac47f5c92a0f00234fe7000",
     "url": "https://www.metis.io"
+  },
+  {
+    "name": "ArtemisSuperNode",
+    "avatar": "{BASEDIR}/assets/Artemis.png",
+    "desc": "Artemis Finance Team",
+    "address": "0x735Aad08c5eF7620b6422E85613f8335Ec07b573",
+    "seq_addr": "0x31e623DCb8B43aD4d05aAA6209574cf336980590",
+    "pubkey": "0xa3f2635f4d555f68f7be80fcf7b13ec9ecdf09365e6a57f6c5f513aa1d1af4565e53a0612e4e4a97124aa95cc17a3e56b5da1afb21c41d9cdb7e5264380a0790",
+    "url": "https://twitter.com/Artemisfinance"
   }
 ]
