@@ -34,5 +34,14 @@
     "seq_addr": "0x31e623DCb8B43aD4d05aAA6209574cf336980590",
     "pubkey": "0xa3f2635f4d555f68f7be80fcf7b13ec9ecdf09365e6a57f6c5f513aa1d1af4565e53a0612e4e4a97124aa95cc17a3e56b5da1afb21c41d9cdb7e5264380a0790",
     "url": "https://twitter.com/Artemisfinance"
+  },
+  {
+    "name": "ENKI0",
+    "avatar": "{BASEDIR}/assets/ENKI0.png",
+    "desc": "ENKI Team",
+    "address": "0x66c7674732357b01B3E9a8F94A05C411BeA1767A",
+    "seq_addr": "0x36f10B20781bb1E78278e84f3e1E97Acf92FA302",
+    "pubkey": "0x26d8c349c2acb2aec89d8da44ff8a6a3c322336d3c0e3c3dfafcc51da090f4af221341c4caddf202b0be13be63fa65b3564a314596522c4a75653d1e80179b76",
+    "url": "https://enkixyz.com"
   }
 ]
