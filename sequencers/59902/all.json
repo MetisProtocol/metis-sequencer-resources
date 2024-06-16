@@ -55,7 +55,7 @@
   },
   {
     "name": "InnovateTech",
-    "avatar": "",
+    "avatar": "{BASEDIR}/assets/Genesis0.svg",
     "desc": "InnovateTech",
     "address": "0x37c3e2913D961894F49FddfAf8B69B4E015d9066",
     "seq_addr": "0x1939C42e97378bb4DA4dC925d4F3a3920051AC93",
