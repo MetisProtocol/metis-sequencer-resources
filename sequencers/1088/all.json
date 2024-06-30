@@ -1,6 +1,6 @@
 [
   {
-    "name": "Genesis0",
+    "name": "Metis Genesis0",
     "avatar": "{BASEDIR}/assets/Genesis0.svg",
     "desc": "Genesis Node",
     "address": "0x05B755a8B2fEc50391B5C38B2afB206Ba0e8e50E",
@@ -9,7 +9,7 @@
     "url": "https://www.metis.io"
   },
   {
-    "name": "Genesis1",
+    "name": "Metis Genesis1",
     "avatar": "{BASEDIR}/assets/Genesis0.svg",
     "desc": "Genesis Node",
     "address": "0xe8D97563Cfd919F1B9F7cE0049346e8796148CD5",
@@ -18,7 +18,7 @@
     "url": "https://www.metis.io"
   },
   {
-    "name": "Genesis2",
+    "name": "Metis Genesis2",
     "avatar": "{BASEDIR}/assets/Genesis0.svg",
     "desc": "Genesis Node",
     "address": "0x24194DFB135B33507a8F05C3F9Ada922F40CE3Ff",
