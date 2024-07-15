@@ -61,5 +61,14 @@
     "seq_addr": "0x1939C42e97378bb4DA4dC925d4F3a3920051AC93",
     "pubkey": "0x3455353109a049f903d680380084064296da65b82d6a006ea354df135c4def02f3a540825722702056fdde7ff99647eae663c84829baf2dbae2a9295bfa333e7",
     "url": "https://x.com/metisl2"
+  },
+  {
+    "name": "HashKey Cloud",
+    "avatar": "{BASEDIR}/assets/hashkeycloud-logo.png",
+    "desc": "Cloud for WEB3 More Than Staking",
+    "address": "0xbA9E72eDA25EA0Bfd73EE538B8Dd8f4E2b9589b8",
+    "seq_addr": "0x57607e7df828C1eE696744eFe19C93ae0605E4AC",
+    "pubkey": "0x04478d568faa8d46b64fecdfee189d6ce5ee93d929c74305c41d3e048102e90f7d59d693dfdbc263350130da564b934198ab20f759b08d016af7b1be68c7a572e8",
+    "url": "https://www.hashkey.cloud"
   }
 ]
