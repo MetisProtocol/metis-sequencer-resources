@@ -1,5 +1,14 @@
 [
   {
+    "name": "OKXEarn",
+    "avatar": "{BASEDIR}/assets/OKXEarn.png",
+    "desc": "Okx Earn",
+    "address": "0xf0171b508Af8c85Dc20b13D25dD7525e87e785c1",
+    "seq_addr": "0x39EC9B3Bec3a99Fb05Bc2CB834FBF0d2aE20eb15",
+    "pubkey": "0x93bfa7ddd34431757c4e22b252ab52dc401e28d8bf2ec3b9ed71ef599c99576dcb210e0dfa1d96a9150d4cb81a374f9d052422d050bafbc957f72a749d999ed2",
+    "url": "https://www.okx.com"
+  },
+  {
     "name": "Genesis0",
     "avatar": "{BASEDIR}/assets/Genesis0.svg",
     "desc": "Metis Devops Team",
