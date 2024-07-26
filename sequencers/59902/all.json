@@ -84,7 +84,7 @@
     "name": "TEB(B-Harvest)",
     "avatar": "{BASEDIR}/assets/bharvest-logo.png",
     "desc": "TEB's validator business arm in B-Harvest provides secure validation services for dPoS networks.",
-    "address": "0x81fc9d26D6B234f9CC6A84bCFeFC679CB64A227A",
+    "address": "0xCCff167aAad7fABbf5a257C98Caf007F0b612b90",
     "seq_addr": "0x81fc9d26D6B234f9CC6A84bCFeFC679CB64A227A",
     "pubkey": "0x26de78c00e1931123f2c178c8ef5b04b67a1c47b0396559a97191e8b72fe4d46641cad55bf4bbcab5fd8b973d6056f058493233dc2e9c8d2627295045282bd31",
     "url": "https://bharvest.io"
