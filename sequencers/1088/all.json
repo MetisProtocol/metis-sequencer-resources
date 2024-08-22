@@ -52,5 +52,14 @@
     "seq_addr": "0xEc05be638D1941c788244603AEbB5B937cD72C21",
     "pubkey": "0x545e1d8fbf39d7e3e98069bc6abec47b5c0f7db37039687b90d94699cd5760ec0e92f85138a801800bd64c7f658f71071f4ae8bf28aaa84aaaef0ad321fee87f",
     "url": "https://twitter.com/Artemisfinance"
+  },
+  {
+    "name": "TEB(B-Harvest)",
+    "avatar": "{BASEDIR}/assets/bharvest-logo.png",
+    "desc": "TEB's validator business arm in B-Harvest provides secure validation services for dPoS networks.",
+    "address": "0x49130A1938b6498B3D7Cf6B856Afd91e75D8f087",
+    "seq_addr": "0xaDd60572c4F39c5c9D7053A7F9e16B5d59Be6563",
+    "pubkey": "0xaf9d34e376774c5389e705eaaf7b6b8c9599669c2ea89c49436b10d1dbf0cf95ccd3a1da76c203ca4cfd2ca553b8083740d6255ff4ac5cf2a1281aacfe13d54e",
+    "url": "https://bharvest.io"
   }
 ]
