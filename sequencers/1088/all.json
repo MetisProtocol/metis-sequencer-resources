@@ -52,5 +52,14 @@
     "seq_addr": "0xEc05be638D1941c788244603AEbB5B937cD72C21",
     "pubkey": "0x545e1d8fbf39d7e3e98069bc6abec47b5c0f7db37039687b90d94699cd5760ec0e92f85138a801800bd64c7f658f71071f4ae8bf28aaa84aaaef0ad321fee87f",
     "url": "https://twitter.com/Artemisfinance"
+  },
+  {
+    "name": "HashKey Cloud",
+    "avatar": "{BASEDIR}/assets/hashkeycloud-logo.png",
+    "desc": "Cloud for WEB3 More Than Staking",
+    "address": "0xb6112C3613B2B6E2dB0ee0216e7D20399777114D",
+    "seq_addr": "0x652016b5718cB79d3FA360701F2d30982d7c4D7B",
+    "pubkey": "0x38d80381a6d79bc37c9b7f55fa2edc0a576774f71bd0c379592b0fa637b0e57e2a8d9b0abe1dbedd436eb58e8db945ba69a691a16cb0e0d879b7b1f425812dc5",
+    "url": "https://www.hashkey.cloud"
   }
 ]
