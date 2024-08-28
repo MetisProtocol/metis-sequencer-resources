@@ -62,7 +62,7 @@
     "pubkey": "0x38d80381a6d79bc37c9b7f55fa2edc0a576774f71bd0c379592b0fa637b0e57e2a8d9b0abe1dbedd436eb58e8db945ba69a691a16cb0e0d879b7b1f425812dc5",
     "url": "https://www.hashkey.cloud"
   },
-  {    
+  {
     "name": "TEB(B-Harvest)",
     "avatar": "{BASEDIR}/assets/bharvest-logo.png",
     "desc": "TEB's validator business arm in B-Harvest provides secure validation services for dPoS networks.",
