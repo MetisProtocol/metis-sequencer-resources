@@ -61,5 +61,14 @@
     "seq_addr": "0x652016b5718cB79d3FA360701F2d30982d7c4D7B",
     "pubkey": "0x38d80381a6d79bc37c9b7f55fa2edc0a576774f71bd0c379592b0fa637b0e57e2a8d9b0abe1dbedd436eb58e8db945ba69a691a16cb0e0d879b7b1f425812dc5",
     "url": "https://www.hashkey.cloud"
+  },
+  {
+    "name": "B-Harvest(TEB)",
+    "avatar": "{BASEDIR}/assets/bharvest-logo.png",
+    "desc": "TEB's validator business arm in B-Harvest provides secure validation services for dPoS networks.",
+    "address": "0x49130A1938b6498B3D7Cf6B856Afd91e75D8f087",
+    "seq_addr": "0xaDd60572c4F39c5c9D7053A7F9e16B5d59Be6563",
+    "pubkey": "0xaf9d34e376774c5389e705eaaf7b6b8c9599669c2ea89c49436b10d1dbf0cf95ccd3a1da76c203ca4cfd2ca553b8083740d6255ff4ac5cf2a1281aacfe13d54e",
+    "url": "https://bharvest.io"
   }
 ]
