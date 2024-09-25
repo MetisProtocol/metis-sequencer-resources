@@ -70,5 +70,14 @@
     "seq_addr": "0xaDd60572c4F39c5c9D7053A7F9e16B5d59Be6563",
     "pubkey": "0xaf9d34e376774c5389e705eaaf7b6b8c9599669c2ea89c49436b10d1dbf0cf95ccd3a1da76c203ca4cfd2ca553b8083740d6255ff4ac5cf2a1281aacfe13d54e",
     "url": "https://bharvest.io"
+  },
+  {
+    "name": "SNZPool",
+    "avatar": "{BASEDIR}/assets/snzpool.png",
+    "desc": "SNZPool is a professional technology service provider for PoS node.",
+    "address": "0xbd3BaD2a57C49E5B3Bb4b05a737cC3673a9E9f55",
+    "seq_addr": "0xD4Eec5110Df06888211275594F340C43cD882f00",
+    "pubkey": "0x043c9b60ff9002e46978389fd883da993e21fd7f301fdbc2b88b783570b8858ff87afa04324e1bebba95c23c48833bdbf859794933ce9dd2229b81aa3fffd2d420",
+    "url": "https://snzholding.com"
   }
 ]
