@@ -124,5 +124,14 @@
     "seq_addr": "0x322eD6B95cf30A9513165A7556bDBaf66aA651Ad",
     "pubkey": "0x29a7afd3cfc8b82906af6960a5770319f925bc4c0b79f44b05a01669bb6bc51792a2352f3f276067cb233dbf08b419e756d10ea2f9374b47d286a6d97d1d7a21",
     "url": "https://twitter.com/Artemisfinance"
+  },
+  {
+    "name": "LinkPool",
+    "avatar": "{BASEDIR}/assets/LinkPool.png",
+    "desc": "Your experts in the Web3 economy",
+    "address": "0x1c18B973959817Bab9E4b976Bc127f341C1Baf16",
+    "seq_addr": "0x66A69Fa70507f61CAba0021004d3500cEefa6b39",
+    "pubkey": "0x9a126fa6aea0fd2d43d1563c6fd1e92292c4f3ab1aa6b7b4b3d42b1c9ba850fd505683b97841a09147dd01fdebb0dd2c68fe2097c326dd2829f51f3f8ff08055",
+    "url": "https://linkpool.com/"
   }
 ]
