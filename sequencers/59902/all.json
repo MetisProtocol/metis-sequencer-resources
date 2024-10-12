@@ -124,5 +124,14 @@
     "seq_addr": "0x322eD6B95cf30A9513165A7556bDBaf66aA651Ad",
     "pubkey": "0x29a7afd3cfc8b82906af6960a5770319f925bc4c0b79f44b05a01669bb6bc51792a2352f3f276067cb233dbf08b419e756d10ea2f9374b47d286a6d97d1d7a21",
     "url": "https://twitter.com/Artemisfinance"
+  },
+  {
+    "name": "Nodies",
+    "avatar": "{BASEDIR}/assets/nodies-logo.png",
+    "desc": "Nodies is a web3 infrastructure company offering a broad range of services, including RPC, Snapshots, Validators, and other infrastructure services.",
+    "address": "0x6f3180BCe1104048212788016DB899359F4328E2",
+    "seq_addr": "0x95C648c3Ae429B3B17F7fbA6ACa217824E7712A4",
+    "pubkey": "0xa81ebea6581bc7f97c082bae2fdf950134341737e65fd0985a094f421830ebf9acb4793782f3490446123db1565a33e10c1ac17dfde22ebeba0869b766b8856d",
+    "url": "https://nodies.org"
   }
 ]
