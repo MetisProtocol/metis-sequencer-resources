@@ -133,5 +133,14 @@
     "seq_addr": "0x95C648c3Ae429B3B17F7fbA6ACa217824E7712A4",
     "pubkey": "0xa81ebea6581bc7f97c082bae2fdf950134341737e65fd0985a094f421830ebf9acb4793782f3490446123db1565a33e10c1ac17dfde22ebeba0869b766b8856d",
     "url": "https://nodies.org"
+  },
+  {
+    "name": "A41",
+    "avatar": "{BASEDIR}/assets/a41-logo.png",
+    "desc": "A41 is a blockchain infrastructure service provider that aims to lead the crypto industry and build solid foundations for all ecosystems.",
+    "address": "0x907cfca1398c363505FF8bE3F781FF102499dc23",
+    "seq_addr": "0x99e2a085948993e59267Ac8FA43E64bb401B7bAA",
+    "pubkey": "0x047c883224460e5134e323b52374a4f67547eb6f71b681df664bfb652ccd42f79f3e711ffb005f953f32d49958a898fd9d7f917775a888ba1adfe6bd041379afa4",
+    "url": "https://www.a41.io"
   }
 ]
