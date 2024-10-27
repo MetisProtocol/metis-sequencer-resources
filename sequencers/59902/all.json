@@ -51,7 +51,9 @@
     "address": "0x0681Be795CF9Ec261ff1E097b50D0a5ED3ad3A95",
     "seq_addr": "0x552C7ae340822ED786C2633f9F9F0B754c3CFb2f",
     "pubkey": "0x2d62e882b067dc468f49db935468d5b8a7dce173a0e7d8d979f5f6b700c6aba3bcbb69191015c50ab19fdf2e979e7260db1604608151397cdc59d9e85348d59e",
-    "url": "https://testnet.enkixyz.com"
+    "url": "https://enkixyz.com",
+    "lst_name": "ENKI",
+    "lst_url": "https://www.enkixyz.com/mint"
   },
   {
     "name": "Genesis3",
@@ -69,7 +71,9 @@
     "address": "0x0E0c52e29D7f8Bc216cA36156f7bE952b891B185",
     "seq_addr": "0x3c8984D9AE7554Ead68602AE455f6F7c61dDbb6B",
     "pubkey": "0x107f212c7ce3bc9a08ad85126d30b10c3fb35233cb345e4591e328d57834048993d53f69ca40fd8ca457d4bcc31d966857128bc17045c36d51e4c44debf94504",
-    "url": "https://twitter.com/Artemisfinance"
+    "url": "https://twitter.com/Artemisfinance",
+    "lst_name": "Artemis",
+    "lst_url": "https://artemisfinance.io/stake"
   },
   {
     "name": "InnovateTech",
@@ -123,7 +127,9 @@
     "address": "0x9d3994c1600cc6ac9f689d660b48ffaab51fa530",
     "seq_addr": "0x322eD6B95cf30A9513165A7556bDBaf66aA651Ad",
     "pubkey": "0x29a7afd3cfc8b82906af6960a5770319f925bc4c0b79f44b05a01669bb6bc51792a2352f3f276067cb233dbf08b419e756d10ea2f9374b47d286a6d97d1d7a21",
-    "url": "https://twitter.com/Artemisfinance"
+    "url": "https://twitter.com/Artemisfinance",
+    "lst_name": "Artemis",
+    "lst_url": "https://artemisfinance.io/stake"
   },
   {
     "name": "Nodies",

@@ -33,7 +33,9 @@
     "address": "0x735Aad08c5eF7620b6422E85613f8335Ec07b573",
     "seq_addr": "0x31e623DCb8B43aD4d05aAA6209574cf336980590",
     "pubkey": "0xa3f2635f4d555f68f7be80fcf7b13ec9ecdf09365e6a57f6c5f513aa1d1af4565e53a0612e4e4a97124aa95cc17a3e56b5da1afb21c41d9cdb7e5264380a0790",
-    "url": "https://twitter.com/Artemisfinance"
+    "url": "https://twitter.com/Artemisfinance",
+    "lst_name": "Artemis",
+    "lst_url": "https://artemisfinance.io/stake"
   },
   {
     "name": "ENKI0",
@@ -42,7 +44,9 @@
     "address": "0x66c7674732357b01B3E9a8F94A05C411BeA1767A",
     "seq_addr": "0x36f10B20781bb1E78278e84f3e1E97Acf92FA302",
     "pubkey": "0x26d8c349c2acb2aec89d8da44ff8a6a3c322336d3c0e3c3dfafcc51da090f4af221341c4caddf202b0be13be63fa65b3564a314596522c4a75653d1e80179b76",
-    "url": "https://enkixyz.com"
+    "url": "https://enkixyz.com",
+    "lst_name": "ENKI",
+    "lst_url": "https://www.enkixyz.com/mint"
   },
   {
     "name": "ArtemisSuperNode2",
@@ -51,7 +55,9 @@
     "address": "0x490e02f5D3c88Cf3A16d5f265378Af962a5A999E",
     "seq_addr": "0xEc05be638D1941c788244603AEbB5B937cD72C21",
     "pubkey": "0x545e1d8fbf39d7e3e98069bc6abec47b5c0f7db37039687b90d94699cd5760ec0e92f85138a801800bd64c7f658f71071f4ae8bf28aaa84aaaef0ad321fee87f",
-    "url": "https://twitter.com/Artemisfinance"
+    "url": "https://twitter.com/Artemisfinance",
+    "lst_name": "Artemis",
+    "lst_url": "https://artemisfinance.io/stake"
   },
   {
     "name": "HashKey Cloud",
@@ -69,7 +75,9 @@
     "address": "0x9D56F28b85Eddc058Fc911e8c6393Bd0BD4835A5",
     "seq_addr": "0xaDd60572c4F39c5c9D7053A7F9e16B5d59Be6563",
     "pubkey": "0xaf9d34e376774c5389e705eaaf7b6b8c9599669c2ea89c49436b10d1dbf0cf95ccd3a1da76c203ca4cfd2ca553b8083740d6255ff4ac5cf2a1281aacfe13d54e",
-    "url": "https://bharvest.io"
+    "url": "https://bharvest.io",
+    "lst_name": "Artemis",
+    "lst_url": "https://artemisfinance.io/stake"
   },
   {
     "name": "SNZPool",
@@ -78,6 +86,8 @@
     "address": "0xbd3BaD2a57C49E5B3Bb4b05a737cC3673a9E9f55",
     "seq_addr": "0xD4Eec5110Df06888211275594F340C43cD882f00",
     "pubkey": "0x3c9b60ff9002e46978389fd883da993e21fd7f301fdbc2b88b783570b8858ff87afa04324e1bebba95c23c48833bdbf859794933ce9dd2229b81aa3fffd2d420",
-    "url": "https://snzholding.com"
+    "url": "https://snzholding.com",
+    "lst_name": "Artemis",
+    "lst_url": "https://artemisfinance.io/stake"
   }
 ]
