@@ -89,5 +89,14 @@
     "url": "https://snzholding.com",
     "lst_name": "Artemis",
     "lst_url": "https://artemisfinance.io/stake"
+  },
+  {
+    "name": "OKXEarn",
+    "avatar": "{BASEDIR}/assets/OKXEarn.png",
+    "desc": "Okx Earn",
+    "address": "0x680f8981e28fc48a1ed657895e5642960e0cf3e9",
+    "seq_addr": "0x8594f6eB82e4140a3b7A2c045d85f02a6c2DCDf2",
+    "pubkey": "0xfd581064af37e666d266db0c9648087a38841e4d1534f59529ca8579594c730e426ca1fd92853a129d43a4c3ac4d165d1c568ca428fc3f7640e22c04c4bf1441",
+    "url": "https://www.okx.com"
   }
 ]
