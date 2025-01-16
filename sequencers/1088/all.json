@@ -98,5 +98,14 @@
     "seq_addr": "0x8594f6eB82e4140a3b7A2c045d85f02a6c2DCDf2",
     "pubkey": "0xfd581064af37e666d266db0c9648087a38841e4d1534f59529ca8579594c730e426ca1fd92853a129d43a4c3ac4d165d1c568ca428fc3f7640e22c04c4bf1441",
     "url": "https://www.okx.com"
-  }
+  },
+  {
+    "name": "A41",
+    "avatar": "{BASEDIR}/assets/a41-logo.png",
+    "desc": "A41 is a blockchain infrastructure service provider that aims to lead the crypto industry and build solid foundations for all ecosystems.",
+    "address": "0xC9127F9Add6e479Ea380CDD20f483c4253E2Cfa0",
+    "seq_addr": "0x50885180c38B5Ba6317B4E42Dc2519F5Ea4E8588",
+    "pubkey": "0x04e54c51245b9969c86dad002b75c05b6a79ce4045d729595666798044838fecb774bc22031ba38cb20b54ee9b28a066fff0fae45d746653873c5d420ab0e10e64",
+    "url": "https://www.a41.io"
+  } 
 ]
