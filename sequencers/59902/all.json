@@ -144,9 +144,9 @@
     "name": "A41",
     "avatar": "{BASEDIR}/assets/a41-logo.png",
     "desc": "A41 is a blockchain infrastructure service provider that aims to lead the crypto industry and build solid foundations for all ecosystems.",
-    "address": "0x907cfca1398c363505FF8bE3F781FF102499dc23",
-    "seq_addr": "0x99e2a085948993e59267Ac8FA43E64bb401B7bAA",
-    "pubkey": "0x7c883224460e5134e323b52374a4f67547eb6f71b681df664bfb652ccd42f79f3e711ffb005f953f32d49958a898fd9d7f917775a888ba1adfe6bd041379afa4",
+    "address": "0x3EeCF267C79fe73651e12E78829E300A023fB91d",
+    "seq_addr": "0xA6e9bc6c5e43227816fA46f3E7A7BfFBA59784cd",
+    "pubkey": "0x39a54221d87dd7cf219351ebceedf89c782f822a9d2ad593d89404e7cfc56badc2a375c04772ac841d088a81037dce63ac9732a49da77a6f4a4f13e06604f557",
     "url": "https://www.a41.io"
   },
   {
