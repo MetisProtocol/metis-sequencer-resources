@@ -14,6 +14,6 @@
   "license": "ISC",
   "dependencies": {
     "ethers": "^6.13.5",
-    "prettier": "^3.5.2"
+    "prettier": "^3.5.3"
   }
 }
