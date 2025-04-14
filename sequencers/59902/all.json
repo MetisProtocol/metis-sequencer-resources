@@ -157,5 +157,14 @@
     "seq_addr": "0xFA35530a8B62bab8Eb0E92B5E7c4eD0F2Cea7f7F",
     "pubkey": "0xf1e24546ea042780a62e262098153dc866095de200eb933f6bb53eb0c0cab3f5417798989deb7c552355835b9fcb00fe2ebcc777e3b427cf0355b75f67eeb247",
     "url": "https://velix.io/"
+  },
+  {
+    "name": "Artifact",
+    "avatar": "{BASEDIR}/assets/artifact_logo.png",
+    "desc": "Providers of next-level blockchain infrastructure services.",
+    "address": "0x1EbE5FbA03638D5fE60a1f0507Da4182ecF4191A",
+    "seq_addr": "0x1EbE5FbA03638D5fE60a1f0507Da4182ecF4191A",
+    "pubkey": "0x049f9e77e6dd7193cba21fdf0e569cfae39d3f1afe7b53dd4c4fd1c43809ffc03ebed67cb0401a2242414ec2ce2a345b75fe2d9150c3a4e609922a510d740b578f",
+    "url": "https://artifact-staking.io/"
   }
 ]
