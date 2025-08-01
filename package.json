@@ -13,7 +13,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ethers": "^6.13.7",
+    "ethers": "^6.15.0",
     "prettier": "^3.5.3"
   }
 }
