@@ -157,5 +157,14 @@
     "seq_addr": "0xFA35530a8B62bab8Eb0E92B5E7c4eD0F2Cea7f7F",
     "pubkey": "0xf1e24546ea042780a62e262098153dc866095de200eb933f6bb53eb0c0cab3f5417798989deb7c552355835b9fcb00fe2ebcc777e3b427cf0355b75f67eeb247",
     "url": "https://velix.io/"
+  },
+  {
+    "name": "Nansen | Stake to Stack Points",
+    "avatar": "{BASEDIR}/assets/nansen-logo.svg",
+    "desc": "Nansen is a leading on-chain analytics platform founded in 2020, serving individual traders to large institutions. Our mission is to surface the signal and create winners.",
+    "address": "0xB72f63B3B09c06B14F48F42F63Fb72C7bBa90A66",
+    "seq_addr": "0x955f5aB3Df553f8c687F92647A2647CB306A9D6e",
+    "pubkey": "3231a7401ed6275fe061b3ba63234295eb0bb0ec6e6ddd649d322ba00838881cf8fe4992039b1d6383527f8df6fdd17a6ffb34c29b7149174bfab5480133c0b7",
+    "url": "https://nansen.ai"
   }
 ]
