@@ -98,5 +98,14 @@
     "seq_addr": "0x8594f6eB82e4140a3b7A2c045d85f02a6c2DCDf2",
     "pubkey": "0xfd581064af37e666d266db0c9648087a38841e4d1534f59529ca8579594c730e426ca1fd92853a129d43a4c3ac4d165d1c568ca428fc3f7640e22c04c4bf1441",
     "url": "https://www.okx.com"
+  },
+  {
+    "name": "Nansen | Stake to Stack Points",
+    "avatar": "{BASEDIR}/assets/nansen-logo.svg",
+    "desc": "Nansen is a leading on-chain analytics platform founded in 2020, serving individual traders to large institutions. Our mission is to surface the signal and create winners.",
+    "address": "0x6c7C332a090c8D2085857cf3220eA01C6d45a723",
+    "seq_addr": "0x02bBE9261249fd7a287B6b92835FB4eFEe8a7eb8",
+    "pubkey": "0x8a41ead86c5cc1c444602dd77711346ca6ad4bfda68ecec19078ce6354a1eabb587250513c8156975dc21c70d6589d31c2db2166595d0ed018309bc5f8208f12",
+    "url": "https://nansen.ai"
   }
 ]
